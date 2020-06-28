@@ -18,6 +18,8 @@ public class Practis {
 
         recurDown(1);
 
+        System.out.println("\n" + factorial(6));
+
 
 
     }
